@@ -14,8 +14,12 @@
 
     "pessoas": [
         {
-            "nome": "07473735017742",
+            "nome": "joao",
             "dataNascimento": "1999-05-02"
+        },
+        {
+            "nome": "maria",
+            "dataNascimento": "1999-03-01"
         }
     ]
 	
