@@ -7,56 +7,6 @@
 	"dtaEmissao": "2023-05-02",
 	"vlrAcrescimo": "0.00",
 	"frota": "",
-	"itens": [{
-		"vlrUnitario": "5.500",
-		"quantidade": "1.000",
-		"unidade": "ML50",
-		"codBarra": "78942318",
-		"codBarraPack": null,
-		"vlrAcrescimoRat": "0.00",
-		"vlrBruto": "5.50",
-		"vlrAcrescimo": "0.00",
-		"seqItem": 1,
-		"cfop": 5405,
-		"vlrDesconto": "0.00",
-		"vlrTotal": "5.50",
-		"descricao": "CIGARRO PM CHESTERFIELD TERRAS BR ORIGINAL BOX",
-		"vendedor": {
-			"id": 556337,
-			"nome": null
-		},
-		"tributacoes": [{
-			"reducao": "12.00",
-			"aliquota": "0.00",
-			"tipo": "ICMS",
-			"bc": "0.00",
-			"valor": "0.00",
-			"cst": "060"
-		}, {
-			"reducao": "0.00",
-			"aliquota": "1.65",
-			"tipo": "PIS",
-			"bc": "0.00",
-			"valor": "0.00",
-			"cst": "05"
-		}, {
-			"reducao": "0.00",
-			"aliquota": "7.60",
-			"tipo": "COFINS",
-			"bc": "0.00",
-			"valor": "0.00",
-			"cst": "05"
-		}, {
-			"reducao": "0.00",
-			"aliquota": "0.00",
-			"tipo": "IPI",
-			"bc": "5.50",
-			"valor": "0.00",
-			"cst": "99"
-		}],
-		"cancelado": false,
-		"id": 30119,
-		"vlrDescontoRat": "0.00"
-	}],
+	"itens": [],
 	"usoConsumo": false
 }
